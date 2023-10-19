@@ -4,6 +4,6 @@ This code was refered from this url:[https://www.bilibili.com/video/BV1MP41187M3
 Use the governing equation 
 $$\frac{\partial^2 u}{\partial^2 x} - \frac{\partial^4 u}{\partial^4 y} = (2-x^2)e^{-y}$$
 The initial condition and boundary condition is 
-$$\frac{\partial^2 u(x,0)}{\partial^2 y} = x^2,\qquad \frac{\partial^2 u(x,1)}{\partial^2 y} = x^2$$,
+$$\frac{\partial^2 u(x,0)}{\partial^2 y} = x^2,\qquad \frac{\partial^2 u(x,1)}{\partial^2 y} = x^2$$
 $$u(x,0)=x^2,\qquad u(x,1)=\frac{x^2}{e}$$
-$$u(0,y)=0,\qquadu(1,y)=e^{-y}$$
+$$u(0,y)=0,\qquad u(1,y)=e^{-y}$$
